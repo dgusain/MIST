@@ -3,11 +3,11 @@ The Mechanized Inhaling Smoking Tool (MIST) is an advanced human vape simulation
 
 This innovative device was engineered to facilitate biomedical research by enabling investigators to autonomously test vapes and cigarettes for study participants, thereby enhancing research efficiency.
 
-MIST operates in conjunction with the FRIENDS device, an electromagnetic puff detection system currently under development, designed for electronic nicotine delivery systems research.
+MIST operates in conjunction with the FRIENDS device, an electromagnetic puff detection system currently under development, designed for electronic nicotine delivery systems research. The system is equipped with a Cambridge filter to capture e-liquid from the vapor, preventing clogging in the rotameter and solenoid valves.
 
-Version 3 (v3) represents a significant advancement over the original v2 model, achieving complete automation. This iteration replaces the mechanical pneumatic pedal valve with a solenoid valve, markedly improving the precision and speed of valve operation. The solenoid valve is powered by a grounded AC supply and is controlled via a Raspberry Pi 4 Model B microcomputer.
+Version 3 (v3) represents a significant advancement over the original v2 model, achieving complete automation. This iteration replaces the mechanical pneumatic pedal valve with a solenoid valve, markedly improving the precision and speed of valve operation. The solenoid valve is powered by a grounded AC supply and is controlled via a Raspberry Pi 4 Model B microcomputer. Additionally, the Raspberry Pi operates over Wi-Fi and is secured with a password to maintain system confidentiality and comply with the university's firewall protocols.
 
-The system is equipped with a Cambridge filter to capture e-liquid from the vapor, preventing clogging in the rotameter and solenoid valves.
+
 
 ## Components
 
@@ -23,3 +23,8 @@ The system is equipped with a Cambridge filter to capture e-liquid from the vapo
 | Male adapters           | Connection from 1/4" OD to 1/4" NPT - to create vape adapters      |
 | Vape adapters           | A set of tubing adapters to suit various vape mouth sizes and attach them to the MIST       |
 
+## Demo videos
+### Setup
+[Layout video](v3/MIST_layout_cinematic.mp4)
+### Operation
+[Operation video](v3/MIST_operation_demo_video.mp4)
