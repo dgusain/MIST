@@ -1,15 +1,13 @@
 # MIST
+The Mechanized Inhaling Smoking Tool (MIST) is an advanced human vape simulation apparatus, conceived and developed at the Hawk Behavioral Health Laboratory within the Department of Clinical Psychology at the University at Buffalo. For more information, please visit the [Hawk Behavioral Health Lab.](https://ubwp.buffalo.edu/hawklab/)
 
-The Mechanized Inhaling Smoking Tool (MIST) is a human vape simulation device, designed and developed at the Hawk Behavioral Health Lab, Department of Clinical Psychology, University at Buffalo.  
-Link to website: [Hawk Behavioral Health Lab](https://ubwp.buffalo.edu/hawklab/)
+This innovative device was engineered to facilitate biomedical research by enabling investigators to autonomously test vapes and cigarettes for study participants, thereby enhancing research efficiency.
 
-The device was developed to enable biomedical research investigators to autonomously test vapes/cigarettes for participants, hence enabling them to work much more efficiently.
+MIST operates in conjunction with the FRIENDS device, an electromagnetic puff detection system currently under development, designed for electronic nicotine delivery systems research.
 
-The MIST works in congruency with the currently in development FRIENDS device - an electromagnetic puff detection device, for electronic nicotine delivery systems research study.
+Version 3 (v3) represents a significant advancement over the original v2 model, achieving complete automation. This iteration replaces the mechanical pneumatic pedal valve with a solenoid valve, markedly improving the precision and speed of valve operation. The solenoid valve is powered by a grounded AC supply and is controlled via a Raspberry Pi 4 Model B microcomputer.
 
-The v3 is an improvement on the original v2 version, which makes the process completely autonomous. The v3 replaces the mechanical pneumatic pedal valve with a solenoid valve, which increases the accuracy and speed of the opening/closing of the valve. The solenoid valve is powered by a grounded AC supply and functions with a Raspberry Pi 4 Model B chip.
-
-The device is hooked up with a Cambridge filter to collect the e-liquid from the smoke released by the vape, and avoid it from getting jammed in the rotameter and the solenoid valves.
+The system is equipped with a Cambridge filter to capture e-liquid from the vapor, preventing clogging in the rotameter and solenoid valves.
 
 ## Components
 
