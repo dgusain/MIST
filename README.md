@@ -25,6 +25,8 @@ Version 3 (v3) represents a significant advancement over the original v2 model, 
 
 ## Demo videos
 ### Setup
+![MIST Layout](v3/MIST_layout.jpg)
 [Layout video](v3/MIST_layout_cinematic.mp4)
+
 ### Operation
-[Operation video](v3/MIST_operation_demo_video.mp4)
+![Operation video](v3/MIST_operation_demo_video.mp4)
