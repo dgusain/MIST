@@ -1,11 +1,13 @@
 # MIST
-The Mechanized Inhaling Smoking Tool (MIST) is an advanced human vape simulation apparatus, conceived and developed at the Hawk Behavioral Health Laboratory within the Department of Clinical Psychology at the University at Buffalo. For more information, please visit the [Hawk Behavioral Health Lab.](https://ubwp.buffalo.edu/hawklab/)
+The Mechanized Inhaling Smoking Tool (MIST) is an advanced human vape simulation apparatus, conceived and developed during my research at the Hawk Behavioral Health Laboratory within the Department of Clinical Psychology at the University at Buffalo. 
 
-This innovative device was engineered to facilitate biomedical research by enabling investigators to autonomously test vapes and cigarettes for study participants, thereby enhancing research efficiency.
+This innovative device was engineered to facilitate biomedical research by enabling investigators to autonomously test vapes and cigarettes for study participants, thereby enhancing research efficiency. 
 
 MIST operates in conjunction with the FRIENDS device, an electromagnetic puff detection system currently under development, designed for electronic nicotine delivery systems research. The system is equipped with a Cambridge filter to capture e-liquid from the vapor, preventing clogging in the rotameter and solenoid valves.
 
-Version 3 (v3) represents a significant advancement over the original v2 model, achieving complete automation. This iteration replaces the mechanical pneumatic pedal valve with a solenoid valve, markedly improving the precision and speed of valve operation. The solenoid valve is powered by a grounded AC supply and is controlled via a Raspberry Pi 4 Model B microcomputer. Additionally, the Raspberry Pi operates over Wi-Fi and is secured with a password to maintain system confidentiality and comply with the university's firewall protocols.
+Version 3 (v3) represents a significant advancement over the original v2 model, achieving complete automation. This iteration replaces the mechanical pneumatic pedal valve with a solenoid valve, markedly improving the precision and speed of valve operation. The solenoid valve is powered by a grounded AC supply and is controlled via a Raspberry Pi 4 Model B microcomputer. Additionally, the Raspberry Pi operates over Wi-Fi and is secured with a password to maintain system confidentiality and comply with the university's firewall protocols. 
+
+It must be noted that the machine was designed and developed by Dakshesh Gusain, and should be patented for the significant increase in the biomedical team's effiiciency. 
 
 
 
