@@ -1,13 +1,10 @@
-Custom Research License (CRL)
+Copyright (c) 2024 Dakshesh Gusain
 
-Copyright (c) 2024 Department of Clinical Psychology, University of Buffalo
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software, associated documentation files, and mechanical designs (the “Work”), to use the Work for personal, educational, or research purposes only, subject to the following conditions:
+	1.	The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Work.
+	2.	The Work may not be used for commercial purposes or to create derivative works without explicit written permission from the author, Dakshesh Gusain.
+	3.	Redistribution and use in source, binary forms, or mechanical designs, with or without modification, are permitted provided that the following conditions are met:
+a. The Work must not be used to replicate or reproduce the design, setup, or functionality in any form without explicit written permission from the author.
+b. Any publications, research papers, or derivative works using the Work must appropriately cite the author, Dakshesh Gusain, and acknowledge the contributions of the University at Buffalo, where the Work was developed.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for personal, educational, or research purposes only, subject to the following conditions:
-
-1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-2. The Software may not be used for commercial purposes without explicit written permission from the authors.
-3. Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
-   a. The Software must not be used to replicate or reproduce the design or setup in any form without explicit written permission from the authors.
-   b. Any publications or research papers using the Software must cite the authors and the Department of Clinical Psychology, University of Buffalo.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE WORK IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
