@@ -1,4 +1,9 @@
 # MIST
+Designed and developed by Dakshesh Gusain.
+© 2024 Ducky. All rights reserved.
+
+MIST v2 is a custom-built mechanical device engineered for experimental lab applications. The design, construction, and intellectual property of this machine are solely owned by Dakshesh Gusain. While the development occurred at University at Buffalo, this machine is not the property of the university. Any unauthorized replication, modification, or claim of ownership without explicit written consent from Dakshesh Gusain is strictly prohibited.
+
 The Mechanized Inhaling Smoking Tool (MIST) is an advanced human vape simulation apparatus, conceived and developed during my research at the Hawk Behavioral Health Laboratory within the Department of Clinical Psychology at the University at Buffalo. 
 
 This innovative device was engineered to facilitate biomedical research by enabling investigators to autonomously test vapes and cigarettes for study participants, thereby enhancing research efficiency. 
